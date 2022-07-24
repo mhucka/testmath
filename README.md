@@ -1,6 +1,6 @@
 # Testing braket notation
 
-## |x⟩ + |y⟩
+## $\ket{x} + \ket{y}$
 
 Vector addition, which is to say, the linear combination of two kets.
 
